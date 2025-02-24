@@ -36,7 +36,7 @@ const about = () => {
           </a>
           </div>
           <p>
-            A Computer Science Master's student at Arizona State University, graduating in May 2025. With over two years of full-stack development experience, I specialize in building scalable web applications using Java, Spring Boot, SQL, AWS, React, and JavaScript. Passionate about AI/ML, I integrate intelligent, data-driven solutions into my projects. I'm seeking co-op opportunities for Spring 2025 and full-time positions from Summer 2025 as a Full-Stack Developer, Backend Developer, or AI/ML Engineer. Outside of coding, I enjoy hiking, cycling, and playing cricket, table tennis, and volleyball.
+            A Computer Science Master's student at Arizona State University, graduating in May 2025. With over two years of full-stack development experience, I specialize in building scalable web applications using Java, Spring Boot, SQL, AWS, React, and JavaScript. Passionate about AI/ML, I integrate intelligent, data-driven solutions into my projects. I'm seeking full-time positions starting in May as a Full-Stack Developer, Backend Developer, or AI/ML Engineer. Outside of coding, I enjoy hiking, cycling, and playing cricket, table tennis, and volleyball.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
